@@ -1,2 +1,2 @@
 ---
-nvm_repo: "git://github.com/creationix/nvm.git"
+nvm_repo: "https://github.com/creationix/nvm.git"
